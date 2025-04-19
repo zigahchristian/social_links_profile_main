@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "InterRegular";
+  src: url("./assets/font/static/Inter-Regular.ttf");
+}
+@font-face {
+  font-family: "InterBold";
+  src: url("./assets/font/static/Inter-Bold.ttf");
+}
+@font-face {
+  font-family: "InterSemiBold";
+  src: url("./assets/font/static/Inter-SemiBold.ttf");
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
